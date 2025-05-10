@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mk4SIkBkBzmT08IIOapQs/70K2Euja/gO+zM7t5nLdWhHQenSH+lKHdIe71/iLvxBopkfeAex3vchCBWxoFJkw==",
+  "dgSpecHash": "ljx/9CLrfbPQPoIFaJEL3XjP5TXfDKi1MSuGoaRpD7CVW4ek9DqsRvz4Zac8xhunkAEapIoHUBdBD4UPCFIq8g==",
   "success": true,
   "projectFilePath": "C:\\Task Management API\\.NET-Core-Web-API-project\\TaskManagementAPI\\TaskManagementAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\patel\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.20\\microsoft.aspnetcore.authentication.jwtbearer.7.0.20.nupkg.sha512",
     "C:\\Users\\patel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
     "C:\\Users\\patel\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.20\\microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
     "C:\\Users\\patel\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.20\\microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",
@@ -21,6 +22,8 @@
     "C:\\Users\\patel\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.7.1\\microsoft.identitymodel.abstractions.7.7.1.nupkg.sha512",
     "C:\\Users\\patel\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.7.1\\microsoft.identitymodel.jsonwebtokens.7.7.1.nupkg.sha512",
     "C:\\Users\\patel\\.nuget\\packages\\microsoft.identitymodel.logging\\7.7.1\\microsoft.identitymodel.logging.7.7.1.nupkg.sha512",
+    "C:\\Users\\patel\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.35.0\\microsoft.identitymodel.protocols.6.35.0.nupkg.sha512",
+    "C:\\Users\\patel\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.35.0\\microsoft.identitymodel.protocols.openidconnect.6.35.0.nupkg.sha512",
     "C:\\Users\\patel\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.7.1\\microsoft.identitymodel.tokens.7.7.1.nupkg.sha512",
     "C:\\Users\\patel\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\patel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",

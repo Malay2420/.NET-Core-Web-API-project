@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TaskManagementAPI.Data;
 using TaskManagementAPI.DTOs;
@@ -62,6 +63,21 @@ namespace TaskManagementAPI.Controllers
                 .ToListAsync();
 
             return Ok(tasks);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteTask(int id)
+        {
+            var task = await _context.Tasks.FindAsync(id);
+            if (task == null)
+            {
+                return NotFound(new { message = "Task not found" });
+            }
+
+            _context.Tasks.Remove(task);
+            await _context.SaveChangesAsync();
+
+            return Ok(new { message = "Task deleted successfully" });
         }
     }
 }
