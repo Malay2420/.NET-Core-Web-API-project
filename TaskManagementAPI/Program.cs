@@ -1,4 +1,11 @@
+using TaskManagementAPI.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Register database
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseInMemoryDatabase("TaskManagementDb"));
 
 // Add services to the container.
 

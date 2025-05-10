@@ -31,3 +31,11 @@ C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\obj\Debug\net
 C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\obj\Debug\net7.0\TaskManagementAPI.pdb
 C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\obj\Debug\net7.0\TaskManagementAPI.genruntimeconfig.cache
 C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\obj\Debug\net7.0\ref\TaskManagementAPI.dll
+C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Task Management API\.NET-Core-Web-API-project\TaskManagementAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
